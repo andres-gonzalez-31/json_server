@@ -1,0 +1,80 @@
+{
+    "clientes": [
+        {
+            "id": "",
+            "id_cliente": "",
+            "nombres": "",
+            "apellidos": "",
+            "documento": "",
+            "telefono": "",
+            "correo": "",
+            "direccion": "",
+            "barrio": ""
+        }
+    ],
+    "usuarios": [
+        {
+            "id": "",
+            "id_tipo_usuario": "",
+            "nombres": "",
+            "apellidos": "",
+            "usuario": "",
+            "documento": "",
+            "contraseña": ""
+        }
+    ],
+    "productos": [
+        {
+            "id": "",
+            "id_tipo_productos": "",
+            "nombres": "",
+            "detalles": "",
+            "codigo": ""
+        }
+    ],
+    "facturas": [
+        {
+            "id": "",
+            "id_cliente": "",
+            "id_tipo_usurio": "",
+            "valor_total": "",
+            "fecha": "",
+            "metodo_pago": ""
+        }
+    ],
+    "detalles_servicios": [
+        {
+            "id": "",
+            "id_factura_servicio": "",
+            "id_raza_perro": "",
+            "nombre_mascota": "",
+            "descripcion": "",
+            "cantidad": "",
+            "valor_unitario": "",
+            "valor_total": ""
+        }
+    ],
+    "provedores": [
+        {
+            "id": "",
+            "nombres": "",
+            "apellidos": "",
+            "correo": "",
+            "telefono": "",
+            "documento": "",
+            "direccion": ""
+        }
+    ],
+    "tipo_productos": [
+        {
+            "id": "",
+            "nombres": ""
+        }
+    ],
+    "razas_perros": [
+        {
+            "id": "",
+            "nombres": ""
+        }
+    ]
+}
